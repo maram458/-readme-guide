@@ -1,5 +1,6 @@
 # -readme-guide
-Le projet consiste à développer une application  desktop pour aider les étudiants à gérer leur mobilité internationale
+Guide détaillé pour rédiger un bon README sur GitHub pour le module projet technologies web 2A.
+
 
 # EduTrip
 
