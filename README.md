@@ -73,7 +73,7 @@ cd projet
 ### Exemple pour **Licence** :
 ```markdown
 ## Licence
-Ce projet est sous la Licence **MIT License**. Pour plus de details, consultez le fichier [LICENSE](./LICENSE) .
+Ce projet est sous la Licence **XXX**. Pour plus de details, consultez le fichier [LICENSE](./LICENSE) .
 
 ### Détails sur la licence MIT
-La licence MIT License est une licence de logiciel
+La licence XXX est une licence de logiciel
