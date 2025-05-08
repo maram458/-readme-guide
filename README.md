@@ -12,14 +12,11 @@ Edutrip est une application  desktop pour aider les étudiants à gérer leur mo
 - [Utilisation] (#utilisation)
 - [Contributions]  (#contributions)
 - [Licence] (#licence)
-## Installation
-## Utilisation
-## Contributions
-## Licence
+
 ## Installation
 1. Clonez le repository
    ``` bash
-git clone https://github.com/sirinerh03/EduTripWeb.git
+    git clone https://github.com/sirinerh03/EduTripWeb.git
 cd EduTripWeb
 
 2. Si vous utilisez WAMP ou XAMPP
