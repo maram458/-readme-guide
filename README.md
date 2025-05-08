@@ -26,7 +26,7 @@ cd EduTripWeb
 * Accédez au projet via http://localhost/EduTripWeb
 
 
-
+## Utilisation
 ### Installation de PHP
 Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
 1. Téléchargez PHP à partir du site officiel: [PHP - Téléchargement] (https://www.php.net/downloads. php) .
@@ -50,4 +50,22 @@ wampserver.com/).
 
 ## Contributions
 nous remercions tous ceux qui ont contribué à ce projet !
+### Contributeurs
+Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités, en corrigeant des bugs ou en améliorant la documentation :
+
+- [Sirine] (https://github.com/sirinerh03/EduTripWeb.git) - Correction de bugs et amélioration des performances etc ...
+- [wafa] (https://github.com/sirinerh03/EduTripWeb.git) - Ajout de la fonctionnalité X etc.
+- [fatma1](https://github.com/sirinerh03/EduTripWeb.git) - Rédaction de la documentation etc
+- [fatma2](https://github.com/sirinerh03/EduTripWeb.git) - Rédaction de la documentation etc
+- [lynda](https://github.com/sirinerh03/EduTripWeb.git) - Rédaction de la documentation etc
+- [maram](https://github.com/sirinerh03/EduTripWeb.git) - Rédaction de la documentation etc
+
+Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **forke**, créer une nouvelle branche et soumettre une **pull request**.
+
+### Comment contribuer ?
+1. **Fork le projet** : Allez sur la page GitHub du projet et cliquez sur le bouton **Fork** dans le coin supérieur droit pour créer une copie du projet dans votre propre compte Github.
+2. **Clonez votre fork** : Clonez le fork sur votre machine locale :
+    ``` bash
+    git clone https://github.com/votre-utilisateur/projet.git
+cd projet
 
