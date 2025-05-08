@@ -6,12 +6,16 @@ Le projet consiste à développer une application  desktop pour aider les étudi
 
 ## Description
 Edutrip est une application  desktop pour aider les étudiants à gérer leur mobilité internationale
+
 ## Table des Matières
 - [Installation] (#installation)
 - [Utilisation] (#utilisation)
 - [Contributions]  (#contributions)
 - [Licence] (#licence)
-
+## Installation
+## Utilisation
+## Contributions
+## Licence
 ## Installation
 1. Clonez le repository
    ``` bash
