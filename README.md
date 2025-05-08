@@ -66,14 +66,14 @@ Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **fork
 1. **Fork le projet** : Allez sur la page GitHub du projet et cliquez sur le bouton **Fork** dans le coin supérieur droit pour créer une copie du projet dans votre propre compte Github.
 2. **Clonez votre fork** : Clonez le fork sur votre machine locale :
     ``` bash
-    git clone https://github.com/votre-utilisateur/projet.git
-cd projet
+    git clone https://github.com/sirinerh03/EduTripWeb.git
+cd EduTripWeb
 
 ## Licence
 ### Exemple pour **Licence** :
 ```markdown
 ## Licence
-Ce projet est sous la Licence **XXX**. Pour plus de details, consultez le fichier [LICENSE](./LICENSE) .
+Ce projet est sous la Licence **MIT**. Pour plus de details, consultez le fichier [LICENSE](./LICENSE) .
 
 ### Détails sur la licence MIT
-La licence XXX est une licence de logiciel
+La licence MIT  est une licence de logiciel
