@@ -70,9 +70,10 @@ Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **fork
 cd projet
 
 ## Licence
-### Exemple pour **Licence** : ```markdown
+### Exemple pour **Licence** :
+```markdown
 ## Licence
-Ce projet est sous la Licence **XXX**. Pour plus de details, consultez le fichier [LICENSE](./LICENSE) .
+Ce projet est sous la Licence **MIT License**. Pour plus de details, consultez le fichier [LICENSE](./LICENSE) .
 
 ### Détails sur la licence MIT
-La licence XXX est une licence de logiciel
+La licence MIT License est une licence de logiciel
